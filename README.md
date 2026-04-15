@@ -40,9 +40,10 @@ This project was built to transform raw booking records into an interactive mana
 This dashboard can help resort managers optimize pricing, room allocation, marketing campaigns, and guest retention strategies.
 
 ## Files Included
-- Resort Booking Dashboard.pbix
 - Dashboard Screenshot
 - README.md
+- Dataset.xlsx
+- PBIX available upon request
 
 ## Author
 Fasha Zunin
